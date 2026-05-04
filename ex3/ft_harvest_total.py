@@ -6,6 +6,3 @@ def ft_harvest_total():
         total += harvest
         days += 1
     print('Total harvest:', total)
-
-
-ft_harvest_total()
